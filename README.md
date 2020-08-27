@@ -1,6 +1,5 @@
 # MMM-NotificationReceived
 
-
 Simple module for developping.<br>
 It allow to show notification send by modules.<br>
 Notification is shown in dev console launched by `npm start dev`
