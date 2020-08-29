@@ -1,6 +1,5 @@
 # MMM-NotificationReceived 
 
-
 Simple module for developping.<br>
 It allow to show notification send by modules.<br>
 Notification is shown in dev console launched by `npm start dev`
@@ -25,3 +24,4 @@ git clone https://github.com/bugsounet/MMM-NotificationReceived
 ```
 - `notificationFrom` is an array of modules for which you want to see notifications.
 - If you want to disable the module, you can use `disabled: true,`
+
