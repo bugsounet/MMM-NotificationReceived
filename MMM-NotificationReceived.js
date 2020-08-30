@@ -1,5 +1,6 @@
 /** MMM-NotificationReceived **/
 
+
 Module.register("MMM-NotificationReceived", {
 
   defaults: {
