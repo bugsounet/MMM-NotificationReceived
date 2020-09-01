@@ -24,3 +24,5 @@ git clone https://github.com/bugsounet/MMM-NotificationReceived
 ```
 - `notificationFrom` is an array of modules for which you want to see notifications.
 - If you want to disable the module, you can use `disabled: true,`
+
+
